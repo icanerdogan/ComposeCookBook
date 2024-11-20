@@ -54,9 +54,11 @@ git clone https://github.com/YourUsername/ComposeCookBook.git
   
   Animation - Canvas         |  Animation - Lottie
   :-------------------------:|:-------------------------:
-  ![Anim - Canvas](https://github.com/user-attachments/assets/c1a4aa67-1f3c-415c-b1be-00c2e33c0a50)  |  ![Anim - Lottie](https://github.com/user-attachments/assets/d29d64cd-3964-422a-b816-9c7efa11030a)
-  
+  ![Anim - Canvas](https://github.com/user-attachments/assets/c1a4aa67-1f3c-415c-b1be-00c2e33c0a50)  |  ![Anim - Lottie](https://github.com/user-attachments/assets/e6c11a93-02eb-46ae-ae77-78532f535fba)
+
+
 </details>
+
 
 <!-- ... -->
 
