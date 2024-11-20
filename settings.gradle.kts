@@ -23,3 +23,4 @@ rootProject.name = "ComposeCookBook"
 include(":app")
 include(":anim")
 include(":anim:canvas")
+include(":anim:lottie")
