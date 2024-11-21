@@ -19,6 +19,8 @@
             <option value="$PROJECT_DIR$/components/charts" />
             <option value="$PROJECT_DIR$/components/colorpicker" />
             <option value="$PROJECT_DIR$/components/fab" />
+            <option value="$PROJECT_DIR$/components/grid" />
+            <option value="$PROJECT_DIR$/components/util" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
