@@ -66,13 +66,11 @@ git clone https://github.com/YourUsername/ComposeCookBook.git
   
   Components - Carousel         |  Components - Charts
   :-------------------------:|:-------------------------:
-  ![Components - Carousel]()  |  ![Components - Charts]()
-
-  Components - Carousel         |  Components - Charts
+  ![Components - Carousel](https://github.com/user-attachments/assets/2d2d5efb-2090-4e4f-8fd2-1c561cafe48c)  | ![Components - Charts](https://github.com/user-attachments/assets/b6cce41c-60e0-407f-90cf-fa9e8fa277e5)
+  
+  Components - Color Picker         |  Components - FAB
   :-------------------------:|:-------------------------:
-  ![Components - Carousel]()  |  ![Components - Charts]()
-
-
+  ![Components - Color Picker](https://github.com/user-attachments/assets/0c77ee12-1cec-4eec-a58c-0b7e35c8951d)  |  ![Components - FAB](https://github.com/user-attachments/assets/1a896a6c-eb03-4ccf-9a04-9e54f733d1ce)
 
 </details>
 
