@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/components/carousel" />
             <option value="$PROJECT_DIR$/components/charts" />
             <option value="$PROJECT_DIR$/components/colorpicker" />
+            <option value="$PROJECT_DIR$/components/fab" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
