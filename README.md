@@ -59,6 +59,22 @@ git clone https://github.com/YourUsername/ComposeCookBook.git
 
 </details>
 
+<!-- COMPONENTS -->
+<details open>
+  <summary><h2>Components</h2></summary>
+  <br>
+  
+  Components - Carousel         |  Components - Charts
+  :-------------------------:|:-------------------------:
+  ![Components - Carousel]()  |  ![Components - Charts]()
+
+  Components - Carousel         |  Components - Charts
+  :-------------------------:|:-------------------------:
+  ![Components - Carousel]()  |  ![Components - Charts]()
+
+
+
+</details>
 
 <!-- ... -->
 
